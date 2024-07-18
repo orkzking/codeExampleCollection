@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+geo_lin_dep/*.pyc
+geo_tree_dep/*.pyc
+geo_lin_dep/__pycache__/*
+geo_tree_dep/__pycache__/*
+geo_tree_dep/D3/__pycache__/*
+.idea/*
+venv/*
+Docs/html/*
+Docs/latex/*

@@ -1,0 +1,5 @@
+*.pyc
+*.cache
+doc/html/*
+doc/_build/*
+doc/_modules/*
