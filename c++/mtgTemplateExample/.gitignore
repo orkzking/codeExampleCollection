@@ -1,0 +1,11 @@
+# ignore build directory
+build/*
+
+# ignore Backup files
+*.bak
+
+# ignore data files
+*.csv
+
+# ignore vscode settings dir
+.vscode/*
